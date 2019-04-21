@@ -24,4 +24,6 @@ you should find an executable by the name of `cubby`, execute it using:
 
 A window should pop-up with a cube as shown:
 
+![cubby](resouces/cubby.png)
+
 The full animation can be found [here](https://www.youtube.com/watch?v=0-QsvuVvP-4&feature=youtu.be).
