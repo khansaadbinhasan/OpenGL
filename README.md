@@ -28,4 +28,3 @@ A window should pop-up with a cube as shown:
 
 The full animation can be found [here](https://www.youtube.com/watch?v=0-QsvuVvP-4&feature=youtu.be).
 
-The code is from the [openGL wiki book](https://en.wikibooks.org/wiki/OpenGL_Programming). Most of the code is from [this tutorial](https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_06) 
