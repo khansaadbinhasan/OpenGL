@@ -1,5 +1,7 @@
 # OpenGL
 
+I built an animation of a textured cube by following the tutorials from [openGL wikibook](https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_06). The cube moves inside a window in x,y,z directions while rotating around x,y,z axes 
+
 ### Description
 
 Folder `includes` contain the header file `shader_utils.h`, `resources` contain the texture `res_texture.png` applied to the cube and `src` contains the following files:
@@ -27,4 +29,3 @@ A window should pop-up with a cube as shown:
 ![cubby](resources/cubby.png)
 
 The full animation can be found [here](https://www.youtube.com/watch?v=0-QsvuVvP-4&feature=youtu.be).
-
